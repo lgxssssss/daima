@@ -8,3 +8,6 @@ def my_abs(x):
 a=my_abs(int(input("输入一个数：")))
 print(a)
 print("bianji")
+
+
+print("hhhhhh)
